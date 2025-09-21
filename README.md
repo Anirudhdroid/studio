@@ -1,4 +1,4 @@
-# Firebase Studio
+# Gen AI for demystifing legal documents
 
 This is a NextJS starter in Firebase Studio.
 
